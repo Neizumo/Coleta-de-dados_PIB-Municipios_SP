@@ -1,6 +1,3 @@
-# Coleta-de-dados_PIB-Municipios_SP
-Esse codigo coleta dados de uma API e envia para o Google Sheets atraves de uma API do Google Cloud para coleta de tratamento de dados
-
 # Coleta de Dados PIB Municípios SP
 
 Este projeto coleta dados do PIB dos municípios de São Paulo usando a API do IBGE e os envia para uma planilha no Google Sheets utilizando a API do Google Cloud.
